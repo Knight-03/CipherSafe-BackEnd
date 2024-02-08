@@ -11,12 +11,12 @@ A brief description of your Node.js application.
 
 1. Clone the repository:
     ```base
-        git clone https://github.com/zaureqs/password-manager-server
+        git clone https://github.com/Knight-03/CipherSafe-BackEnd
     ```
 
 2. Change directory to the project root:
     ```
-        cd password-manager-server
+        cd CipherSafe-BackEnd
     ```
 3. Install the dependencies:
     ```base
@@ -52,7 +52,7 @@ npm run dev
 This will start the application on port 5000 by default. You can visit the application in your web browser at `https://localhost/5000`.
 
 
-## For client side see [Password Manager Client](https://github.com/zaureqs/password-manager-client)
+## For client side see [CipherSafe FrontEnd](https://github.com/Knight-03/CipherSafe-FrontEnd)
 
 ## Deployment
 
@@ -72,5 +72,5 @@ If you would like to contribute to this project, please feel free to fork the re
 
 Contact
 
-If you have any questions or feedback, please feel free to contact me at [Linkedin](https://www.linkedin.com/in/manish-fenin/).
+If you have any questions or feedback, please feel free to contact me at [Linkedin](https://www.linkedin.com/in/dhvani-p/).
 
